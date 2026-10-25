@@ -1,3 +1,4 @@
+> yes the readme is ai gen cuz i aint writing all this but the code is not
 # Journal API
 
 A simple REST API for a journal. No frontend included, so build your own and call it with `fetch`.
